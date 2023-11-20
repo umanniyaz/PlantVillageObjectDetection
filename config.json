@@ -1,0 +1,4 @@
+{   
+    "models_location_path":"models",
+    "obj_detection_model":"best.onnx"
+}
